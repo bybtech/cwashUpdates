@@ -1,6 +1,6 @@
 {
   "updates": {
-      "latest-version": "2.1",
+      "latest-version": "1.1",
       "download-url": "https://raw.githubusercontent.com/bybtech/cwashUpdates/main/firmware.bin",
       "changelog": "-chart fixeddd \n -lines chart added \n -data fixed \n ",
       "mandatory": true
