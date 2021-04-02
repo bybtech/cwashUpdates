@@ -1,7 +1,7 @@
 {
   "updates": {
       "latest-version": "2.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-installer-v2.1_Win.exe",
+      "download-url": "https://raw.githubusercontent.com/bybtech/cwashUpdates/main/firmware.bin",
       "changelog": "-chart fixeddd \n -lines chart added \n -data fixed \n ",
       "mandatory": true
     }
