@@ -1,7 +1,7 @@
 {
   "updates": {
       "latest-version": "1.1",
-      "download-url": "https://github.com/bybtech/cwashUpdates/blob/main/firmware.bin?raw=true",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/firmware.bin",
       "changelog": "-Bug fixes \n -Treatment improved \n ",
       "mandatory": true
     }
