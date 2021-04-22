@@ -1,8 +1,0 @@
-{
-  "updates": {
-      "latest-version": "1.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/cwashUpdates/main/test.jpeg",
-      "changelog": "-chart fixeddd \n -lines chart added \n -data fixed \n ",
-      "mandatory": true
-    }
-  }
